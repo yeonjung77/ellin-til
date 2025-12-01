@@ -6,4 +6,4 @@
 
 ### [ 12월 첫째주 ]
 
-- [x] [25. 12. 1](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-15.md) - [ git 사용법 ]
+- [x] [25. 12. 1](https://github.com/yeonjung77/ellin-til/blob/main/Dec/2025-12-01.md) - [ git 사용법 ]

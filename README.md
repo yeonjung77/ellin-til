@@ -4,6 +4,6 @@
 
 날짜 클릭 시 해당 TIL로 이동 
 
-### [ 10월 셋째주, 5주차 ] - 머신러닝 
+### [ 12월 첫째주 ]
 
-- [x] [25. 10. 15](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-15.md) - [ git 사용법 ]
+- [x] [25. 12. 1](https://github.com/100-hours-a-week/erica-til/blob/main/April/2024-04-15.md) - [ git 사용법 ]
